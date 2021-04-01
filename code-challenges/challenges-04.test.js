@@ -160,22 +160,17 @@ const citiesAtoJ = (arr) => {
 
 
   let array = [];
-  let regex = /^[A-J]\w*/g;
+  let regex = /^[A-J](\w)*/;
   arr.forEach(element => {
-    if( element.match(regex)) {
-      // let newEl= element.match(regex);
+    if( regex.test(element)) {
+
       array.push(element);
 
 
     }
 
   });
-  console.log(array);
-
-
-
-
-
+  return array;
 };
 /* ------------------------------------------------------------------------------------------------
 CHALLENGE 7 - Stretch Goal
