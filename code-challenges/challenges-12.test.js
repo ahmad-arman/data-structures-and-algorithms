@@ -67,6 +67,7 @@ const totalSum = (matrix) => {
     let total=value.reduce((acc,val)=>{
       return acc+=val;
     },0);
+
     return accu+=total;
   },0);
 };
