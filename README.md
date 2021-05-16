@@ -19,14 +19,14 @@ Each day, you'll add one new file to this folder to do your work for the day's a
 
 classes   |    link
 ------------- | -------------
-reverse-test01  | ![click me]()
-reverse-test02  | ![click me]()
-reverse-test03  | ![click me]()
-reverse-test04  | ![click me]()
-reverse-test05  | ![click me]()
-reverse-test06  | ![click me]()
-reverse-test07  | ![click me]()
-reverse-test08  | ![click me]()
-reverse-test09  | ![click me]()
+reverse-test01  | [click me](https://github.com/ahmad-arman/data-structures-and-algorithms/blob/array-reverse/code-challenge-401/class-01/README.md)
+reverse-test02  | [click me]()
+reverse-test03  | [click me]()
+reverse-test04  | [click me]()
+reverse-test05  | [click me]()
+reverse-test06  | [click me]()
+reverse-test07  | [click me]()
+reverse-test08  | [click me]()
+reverse-test09  | [click me]()
 
 
