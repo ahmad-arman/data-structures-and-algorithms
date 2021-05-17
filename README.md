@@ -20,7 +20,7 @@ Each day, you'll add one new file to this folder to do your work for the day's a
 classes   |    link
 ------------- | -------------
 reverse-test01  | [click me](https://github.com/ahmad-arman/data-structures-and-algorithms/blob/array-reverse/code-challenge-401/class-01/README.md)
-array-shift-test02  | [click me](https://github.com/ahmad-arman/data-structures-and-algorithms/blob/array-shift/code-challenge-401/class-01/README.md)
+array-shift-test02  | [click me](https://github.com/ahmad-arman/data-structures-and-algorithms/blob/array-shift/code-challenge-401/class-01/class-02/README.md)
 reverse-test03  | [click me]()
 reverse-test04  | [click me]()
 reverse-test05  | [click me]()
