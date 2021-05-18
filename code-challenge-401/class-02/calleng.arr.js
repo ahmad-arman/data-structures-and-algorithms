@@ -1,4 +1,4 @@
-
+'use strict';
 
 
 let arrayData = [30,2,4,7,9,23,12];
@@ -23,3 +23,4 @@ function insertShiftArray (array , num){
 }
 insertShiftArray(arrayData,100);
 module.exports = insertShiftArray;
+
