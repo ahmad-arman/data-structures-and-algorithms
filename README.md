@@ -21,7 +21,7 @@ classes   |    link
 ------------- | -------------
 reverse-test01  | [click me](https://github.com/ahmad-arman/data-structures-and-algorithms/blob/array-reverse/code-challenge-401/class-01/README.md)
 array-shift-test02  | [click me](https://github.com/ahmad-arman/data-structures-and-algorithms/blob/array-shift/code-challenge-401/class-01/class-02/README.md)
-array-binary-search | [click me](https://github.com/ahmad-arman/data-structures-and-algorithms/blob/array-shift/code-challenge-401/class-01/class-02/class-03/README.md)
+array-binary-search | [click me](https://github.com/ahmad-arman/data-structures-and-algorithms/blob/main/code-challenge-401/class-03/README.md)
 reverse-test04  | [click me]()
 reverse-test05  | [click me]()
 reverse-test06  | [click me]()
