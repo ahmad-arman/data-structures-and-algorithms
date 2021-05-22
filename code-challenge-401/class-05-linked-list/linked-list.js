@@ -52,7 +52,9 @@ class LinkedList {
   insert(value){
     try {
       this.head = new Node(value) ;
+
     }
+
     catch(error) {
       console.error('your error:',error);
     }
@@ -72,9 +74,11 @@ class LinkedList {
         }
         check = check.next;
       }
+
       console.log('does is exist ?', boolean);
       return boolean ;
     }
+
     catch(error) {
       console.error('your error:',error);
     }
