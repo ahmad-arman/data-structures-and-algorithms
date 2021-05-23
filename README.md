@@ -23,7 +23,7 @@ reverse-test01  | [click me](https://github.com/ahmad-arman/data-structures-and-
 array-shift-test02  | [click me](https://github.com/ahmad-arman/data-structures-and-algorithms/blob/main/code-challenge-401/class-02/README.md)
 array-binary-search | [click me](https://github.com/ahmad-arman/data-structures-and-algorithms/blob/array-binary-search/code-challenge-401/class-03/README.md)
 linked-list  | [click me](https://github.com/ahmad-arman/data-structures-and-algorithms/blob/array-binary-search/code-challenge-401/class-05-linked-list/README.md)
-reverse-test05  | [click me]()
+ll-insertions-test05  | [click me]()
 reverse-test06  | [click me]()
 reverse-test07  | [click me]()
 reverse-test08  | [click me]()

@@ -5,9 +5,6 @@ A linked list is a linear data structure similar to an array. However, unlike ar
 add method  to insert value in linked list <br>
 add method to include value in linked list and return true if exist and false if not exist 
 
-## Whiteboard Process
-![image](./linked-list-1.png)
-
 ## Approach & Efficiency
 time O(n) <br>
 space O(1)
