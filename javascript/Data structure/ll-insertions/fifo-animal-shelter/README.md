@@ -7,8 +7,8 @@ dequeue(pref): returns either a dog or a cat. If pref is not "dog" or "cat" then
  ![image](./fifo-animal-shelter.png)
 
 ## Approach & Efficiency
-Time ----> B O(1) <br>
-space ----> O(n)<br>
+ Time ----> B O(1) <br>
+ space ----> O(n)<br>
 ## Solution
 // let ahmad = new AnimalShelter(); <br>
 // ahmad.enqueue('cat'); <br>
