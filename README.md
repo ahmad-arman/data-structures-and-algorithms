@@ -30,5 +30,6 @@ stack-and-queue  | [click me](https://github.com/ahmad-arman/data-structures-and
 queue-with-stacks  | [click me](https://github.com/ahmad-arman/data-structures-and-algorithms/blob/queue-with-stacks/javascript/Data%20structure/ll-insertions/queue-with-stacks/README.md)
 fifo-animal-shelter | [click me](https://github.com/ahmad-arman/data-structures-and-algorithms/blob/fifo-animal-shelter/javascript/Data%20structure/ll-insertions/fifo-animal-shelter/README.md)
  multi-bracket-validation|[click me ](https://github.com/ahmad-arman/data-structures-and-algorithms/blob/multi-bracket-validation/javascript/Data%20structure/ll-insertions/multi-bracket-validation/README.md)
+Trees | [click me](https://github.com/ahmad-arman/data-structures-and-algorithms/blob/trees/javascript/Data%20structure/ll-insertions/trees/README.md)
 
 
