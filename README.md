@@ -32,4 +32,6 @@ fifo-animal-shelter | [click me](https://github.com/ahmad-arman/data-structures-
  multi-bracket-validation|[click me ](https://github.com/ahmad-arman/data-structures-and-algorithms/blob/multi-bracket-validation/javascript/Data%20structure/ll-insertions/multi-bracket-validation/README.md)
 Trees | [click me](https://github.com/ahmad-arman/data-structures-and-algorithms/blob/tree/javascript/trees/README.md)
 
+findMaxValue in tree | [click me](https://github.com/ahmad-arman/data-structures-and-algorithms/blob/find-maximum-binary-tree/javascript/trees/find-maximum-binary-tree/README.md)
+
 
