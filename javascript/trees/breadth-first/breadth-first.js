@@ -83,14 +83,35 @@ class BinaryTree {
 
   }
 
+  breadthFirst(){
+    let binaryArrayResult=[];
 
- 
+    function traverse(node, callBack) {
+      let current = [node];
 
+      while (current.length > 0) {
+        let next = [];
+
+        for (let node of current) {
+
+          callBack(node);
+          if (node.left) next.push(node.left);
+          if (node.right) next.push(node.right);
+        }
+        current = next;
+        console.log(current);
+      }
+    }
+
+
+    traverse(this.root, function(node) {
+      binaryArrayResult.push(node.value);
+
+      console.log(node.value);
+
+    });
+    return binaryArrayResult;
+  }
 }
 
-
-
-
 module.exports = BinaryTree ;
-
-
