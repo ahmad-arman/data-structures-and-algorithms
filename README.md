@@ -33,5 +33,6 @@ fifo-animal-shelter | [click me](https://github.com/ahmad-arman/data-structures-
 Trees | [click me](https://github.com/ahmad-arman/data-structures-and-algorithms/blob/tree/javascript/trees/README.md)
 findMaxValue in tree | [click me](https://github.com/ahmad-arman/data-structures-and-algorithms/blob/find-maximum-binary-tree/javascript/trees/find-maximum-binary-tree/README.md) 
 breadth first from tree| [click me](https://github.com/ahmad-arman/data-structures-and-algorithms/blob/breadth-first/javascript/trees/breadth-first/README.md)
+fizz buzz | [click me](https://github.com/ahmad-arman/data-structures-and-algorithms/blob/main/javascript/trees/fizzbuzz-tree/README.md)
 
 
