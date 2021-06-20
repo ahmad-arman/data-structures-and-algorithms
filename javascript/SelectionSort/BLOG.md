@@ -18,12 +18,12 @@ Insertion sort is a simple sorting algorithm that works similar to the way you s
         
       arr[j + 1] <-- temp
 ```      
-Trace
-Sample Array: [8,4]
+## Trace
+Sample Array: [8,4,23,16]
+![image](./insersion_sort.jpeg)
 
-Pass 1:
 
-Pass 1 of Selection Sort 
+
 
 
 
@@ -32,5 +32,5 @@ Pass 1 of Selection Sort
 ![](./test.png)
 
 ## Efficency
-1. Time complexity:   Time:  O(N²).
+1. Time complexity:   Time:  O(N^2).
 2. Space complexity:   Space: O(1).
