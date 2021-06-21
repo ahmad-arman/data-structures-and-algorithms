@@ -35,5 +35,6 @@ findMaxValue in tree | [click me](https://github.com/ahmad-arman/data-structures
 breadth first from tree| [click me](https://github.com/ahmad-arman/data-structures-and-algorithms/blob/breadth-first/javascript/trees/breadth-first/README.md)
 fizz buzz | [click me](https://github.com/ahmad-arman/data-structures-and-algorithms/blob/main/javascript/trees/fizzbuzz-tree/README.md)
 inversion sort | [click me](https://github.com/ahmad-arman/data-structures-and-algorithms/tree/SelectionSort/javascript/SelectionSort)
+merge sort | [click me](https://github.com/ahmad-arman/data-structures-and-algorithms/tree/Reverse-sorted/javascript/Reverse-sorted)
 
 
