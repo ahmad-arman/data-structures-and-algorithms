@@ -37,7 +37,7 @@ fizz buzz | [click me](https://github.com/ahmad-arman/data-structures-and-algori
 inversion sort | [click me](https://github.com/ahmad-arman/data-structures-and-algorithms/tree/SelectionSort/javascript/SelectionSort)
 merge sort | [click me](https://github.com/ahmad-arman/data-structures-and-algorithms/tree/Reverse-sorted/javascript/Reverse-sorted)
 quick sort | [click me](https://github.com/ahmad-arman/data-structures-and-algorithms/tree/quick-sort/javascript/Quick-Sort)
-hashTable  | [click me](https://github.com/ahmad-arman/data-structures-and-algorithms/tree/quick-sort/javascript/hashtable)
+hashTable  | [click me](https://github.com/ahmad-arman/data-structures-and-algorithms/tree/hashtable/javascript/hashtable)
 
 
 
