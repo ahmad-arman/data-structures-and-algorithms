@@ -48,7 +48,7 @@ class HashTable {
   getOne(key){
     const myIndex = this.hash(key);
     const mySearch = this.table[myIndex];
-    if(mySearch===null) return null;
+    if(!mySearch) return null;
     return mySearch.value(key);
   }
 
@@ -56,7 +56,7 @@ class HashTable {
   contains(key) {
     const myIndex = this.hash(key);
     const mySearch = this.table[myIndex];
-    if (mySearch===null) return false;
+    if (!mySearch) return false;
     return mySearch.includes(key);
   }
 
