@@ -1,6 +1,11 @@
 ###  Hash tables
 A hash table is a special collection that is used to store key-value items. So instead of storing just one value like the stack, array list and queue, the hash table stores 2 values. These 2 values form an element of the hash table. Below are some example of how values of a hash table might look like.
 
+
+### white bored 
+
+![hash table ](./hashtable.jpg)
+
 ## Challenge
 Implement a Hash table Class with the following methods:
 
