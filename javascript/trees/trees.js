@@ -6,6 +6,28 @@ class BinaryTree {
     this.root =root ;
   }
 
+  // class Tree {
+//   constructor() {
+//     this.root = null;
+//   }
+//   preOrder() {
+//     const values = [];
+//     const preOrder = (node) => {
+//       //current -> left -> right
+//       values.push(node.value);
+//       if (node.left) {
+//         preOrder(node.left);
+//       }
+//       if (node.right) {
+//         preOrder(node.right);
+//       }
+//     };
+//     let current = this.root;
+//     preOrder(current);
+//     return values;
+//   }
+// }
+
   preOrder(){
     let binaryArrayResult =[];
 
