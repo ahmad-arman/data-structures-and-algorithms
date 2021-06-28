@@ -39,7 +39,7 @@ merge sort | [click me](https://github.com/ahmad-arman/data-structures-and-algor
 quick sort | [click me](https://github.com/ahmad-arman/data-structures-and-algorithms/tree/quick-sort/javascript/Quick-Sort)
 hashTable  | [click me](https://github.com/ahmad-arman/data-structures-and-algorithms/tree/hashtable/javascript/hashtable)
 repeat hash word | [click me](https://github.com/ahmad-arman/data-structures-and-algorithms/tree/hashmap-repeated-word/javascript/hashtable/hashmap-repeated-word) 
-hashmap | [click me](https://github.com/ahmad-arman/data-structures-and-algorithms/)
+hashmap-tree-intersection | [click me](https://github.com/ahmad-arman/data-structures-and-algorithms/tree/hashmap-tree-intersection/javascript/hashtable/hashmap-tree-intersection)
 
 
 
