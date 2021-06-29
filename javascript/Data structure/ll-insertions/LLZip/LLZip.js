@@ -75,3 +75,35 @@ module.exports ={
   LinkedList,
   zipLists
 };
+
+function size(ll){
+  let size =0 ;
+  let current = ll.head ;
+  while(current){
+    size++;
+    current = current.next;
+  }
+  return size;
+}
+
+
+function zibLinkedList(ll1,ll2){
+  let newLinkedList =new LinkedList;
+
+  let current1 = ll1.head;
+  let current2= ll2.head;
+  let newSize = ll1.size() + ll2.size();
+
+  for(let i=0; i< newSize.length ; i++ ){
+
+    if(current1){
+      newLinkedList.append(current1.value);
+      current1 =current1.next;
+    }
+    if(current2){
+      newLinkedList.append(current2.value);
+      current2 =current2.next;
+    }
+  }
+  return newLinkedList ;
+}
